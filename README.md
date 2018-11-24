@@ -1,2 +1,2 @@
 # Brain-Trainer
-Android App to play Math-o-thon
+Android App to play Math-o-Thon
